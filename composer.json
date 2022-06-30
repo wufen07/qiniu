@@ -1,0 +1,21 @@
+{
+    "name": "wufen07/qiniu",
+    "description": "qiniuuploade",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Oss\\Content\\": "src/Oss/Content"
+        }
+    },
+    "authors": [
+        {
+            "name": "wufen07",
+            "email": "2517845324@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php":">=5.6"
+    }
+}
